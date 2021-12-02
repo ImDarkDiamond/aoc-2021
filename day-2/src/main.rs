@@ -59,6 +59,5 @@ fn main() -> Result<(), Box<dyn Error + Send + Sync>> {
 
     println!("Part two: {}", depth * horizontal);
 
-    
     Ok(())
 }
